@@ -1,6 +1,5 @@
-Now this should work without any issues in bug1 file
+New code has been updated in the file bug1.0.java file and it should work with any bugs
 
-This code has been updated and it should work without issue
 
  
 
